@@ -1,4 +1,4 @@
-
+![logo](https://github.com/yogiraaj/Edit.Readme/blob/main/6239792.jpg)
 
 <h1 align="center">Hi 👋, I'm Yogesh Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
