@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47bfyewj7s3gjw1jhcb7sglu9baao7fuhaykn1n9l9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yogiraaj&label=Profile%20views&color=0e75b6&style=flat" alt="yogiraaj" /> </p>
+
 
 <p align="left"> <a href="https://twitter.com/vn_yogesh" target="blank"><img src="https://img.shields.io/twitter/follow/vn_yogesh?logo=twitter&style=for-the-badge" alt="vn_yogesh" /></a> </p>
 
