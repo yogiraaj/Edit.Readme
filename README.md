@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Yogesh Pal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=ecf05e47bfyewj7s3gjw1jhcb7sglu9baao7fuhaykn1n9l9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
